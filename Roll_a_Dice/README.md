@@ -1,3 +1,3 @@
 # roll_a_dic
 
-A new Flutter project.
+It's a simple app that rolls a dice randomly
