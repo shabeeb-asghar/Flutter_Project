@@ -1,3 +1,3 @@
 # quizup
 
-A new Flutter project.
+It's a simple quiz app
